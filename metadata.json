@@ -1,0 +1,6 @@
+{
+  "name": "PraBin - Intelligent Personal Assistant",
+  "description": "An intelligent personal assistant powered by custom neural networks, featuring multi-turn chat, image generation, video creation, music generation, search/maps grounding, and text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
